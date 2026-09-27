@@ -8,6 +8,6 @@ tokenizers
 # On a Snapdragon (Windows ARM64) laptop, use this instead of onnxruntime:
 # onnxruntime-qnn
 
-# Day 3 (local AI-generated answers). --pre is required for this preview package.
+# local AI-generated answers. --pre is required for this preview package.
 --pre
 onnxruntime-genai
